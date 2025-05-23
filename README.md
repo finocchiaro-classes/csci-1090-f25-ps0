@@ -1,6 +1,6 @@
 # Problem Set 0
 
-Now that you have created a GitHub account and have accepted this invitation, you can finish the problem set. The deadline for this problem set is **August 27, at 11:59pm Boston time**. At the end of this problem set, I list all the components you are required to submit and how you must submit them.
+Now that you have created a GitHub account and have accepted this invitation, you can finish the problem set. The deadline for this problem set is **August 29, at 11:59pm Boston time**. At the end of this problem set, I list all the components you are required to submit and how you must submit them.
 
 ## Part 1: Course Survey
 [Take this short survey](https://docs.google.com/forms/d/e/1FAIpQLScv0UiGYhwzi2KxVmsItbr6JBi47HsW0OZsGbHsdaQpZeJ8Ow/viewform?usp=header)
@@ -150,13 +150,12 @@ If you have followed all of the steps so far, you should be done with the proble
 **Reminder:** To receive full credit you must
 
 * Complete the course survey (Part 1).
-* Post a message on Slack (Part 2).
-* Put the screenshot showing that you used the interpreter in IDLE (Part 6).
-* Edit the `ps0.py` file in this directory (as described in Part 7).
-* Put your personal PDF slide in this directory (Part 8).
-* Commit this entire directory to GitHub Classroom (Part 9).
+* Put the screenshot showing that you used the interpreter in IDLE (Part 5).
+* Edit the `ps0.py` file in this directory (as described in Part 6).
+* Put your personal PDF slide in this directory (Part 7).
+* Commit this entire directory to GitHub Classroom (Part 8).
 
-**All components of this problem set are due by Friday, January 19, by 11:59pm Boston time.**
+**All components of this problem set are due by Friday, August 29, by 11:59pm Boston time.**
 
 ---
 
