@@ -24,7 +24,7 @@ You are now going to use GitHub Desktop to make a copy of `ps0-yourusername` on 
 
 <img src="img/getstarted.png" width="500">
 
-3. When you select that, you'll see a list of your repositories, including this one, as shown below. Select this repository, i.e., `CSCI1090-S24/ps1-yourusername`, where `yourusername` is your GitHub username.
+3. When you select that, you'll see a list of your repositories, including this one, as shown below. Select this repository, i.e., `CSCI1090-S24/ps0-yourusername`, where `yourusername` is your GitHub username.
 
 Then in the `Local Path` box, change the path to something sensible -- like your Desktop or Documents and then a folder named for the class, as shown in the screenshot below. **Be sure to remember what this location is so you can easily find your files later on!**
 
@@ -72,15 +72,15 @@ Then in the `Local Path` box, change the path to something sensible -- like your
 
 ```print("Hello, world!")```
 
-5. Take a screenshot of your IDLE window showing that you typed these commands, and move the screenshot into the folder on your computer for this repository (i.e., the one GitHub Desktop created called `ps1-yourusername`).
+5. Take a screenshot of your IDLE window showing that you typed these commands, and move the screenshot into the folder on your computer for this repository (i.e., the one GitHub Desktop created called `ps0-yourusername`).
 
 ## Part 6: Write and run a Python program with IDLE
 
-In this folder, you'll see a file called `ps1.py`.  (Your operating system might just show it as as `ps1`. That's fine -- it's the file you want.) In order to view and run this program in IDLE, you need to open it in IDLE. There are two ways of opening a Python (``.py``) file in IDLE.
+In this folder, you'll see a file called `ps0.py`.  (Your operating system might just show it as as `ps0`. That's fine -- it's the file you want.) In order to view and run this program in IDLE, you need to open it in IDLE. There are two ways of opening a Python (``.py``) file in IDLE.
 
 **Option 1**
 
-* Right-click on the `ps1.py` file. (On a Mac, you can right-click by tapping the icon with two fingers or by holding down the ``control`` key and then tapping the icon.)
+* Right-click on the `ps0.py` file. (On a Mac, you can right-click by tapping the icon with two fingers or by holding down the ``control`` key and then tapping the icon.)
 * Select `Open with...` and then select IDLE from the submenu. On Windows, if you don't see `Open with...` select the `More options` item, which should bring up the `Open with...` option.
 * If IDLE does not appear or you can't figure out how to right click, try option 2.
 
@@ -139,7 +139,7 @@ Now you are ready to commit your changes from your local copy of the repo to the
 
 <img src="img/viewongithub.png" width="500">
 
-7. Your repo on GitHub should now look something like this (substituting in your username, of course, and different dates and times). You can see that the files I added are there, and the `ps1.py` file was updated very recently.
+7. Your repo on GitHub should now look something like this (substituting in your username, of course, and different dates and times). You can see that the files I added are there, and the `ps0.py` file was updated very recently.
 
 <img src="img/githubview.png" width="500">
 
