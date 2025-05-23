@@ -1,4 +1,4 @@
-# Problem Set 1
+# Problem Set 0
 
 Now that you have created a GitHub account and have accepted this invitation, you can finish the problem set. The deadline for this problem set is **August 27, at 11:59pm Boston time**. At the end of this problem set, I list all the components you are required to submit and how you must submit them.
 
