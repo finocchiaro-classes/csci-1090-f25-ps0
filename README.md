@@ -3,7 +3,7 @@
 Now that you have created a GitHub account and have accepted this invitation, you can finish the problem set. The deadline for this problem set is **August 27, at 11:59pm Boston time**. At the end of this problem set, I list all the components you are required to submit and how you must submit them.
 
 ## Part 1: Course Survey
-[Take this short survey](https://forms.gle/c6LJ2QyRxktytCPa8)
+[Take this short survey](https://docs.google.com/forms/d/e/1FAIpQLScv0UiGYhwzi2KxVmsItbr6JBi47HsW0OZsGbHsdaQpZeJ8Ow/viewform?usp=header)
 
 ## Part 2: Download and Install GitHub Desktop
 In this class, most assignments will be distributed and submitted using GitHub Classroom. The easiest way to manage GitHub for new users is through the GitHub Desktop application.
